@@ -42,15 +42,15 @@ h3{
     padding-top: 11%;
 }
 .about-us{
-    height: 50vh;
+    height: 55vh;
     background-color: #eee;
     text-align: center;
-    padding-top: 5%;
+    padding: 2%;
     color: #111;
 }
 .about-title{
     text-transform: uppercase;
-    padding: 3%;
+    /* padding: 3%; */
     color: #333;
 }
 .about-us p{
@@ -64,4 +64,21 @@ h3{
     margin-left: 20%;
     font-size: 98%;
     line-height: 1.4;
+}
+.services{
+    background-image: url(assets/backgrounds/s_image.jpg);
+    height: 50vh;
+    text-align: center;
+    padding: 4%;
+    color: #fff;
+}
+
+.services--title{
+    color: #fff;
+}
+.services p{
+    margin-left: 30%;
+    width: 40%;
+    line-height: 1.4;
+    font-size: 90%;
 }
