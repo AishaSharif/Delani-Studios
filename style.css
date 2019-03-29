@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    background-color: #fff;
+    color: #777777;
+}
+.header{
+    background-image: url(assets/backgrounds/h_img.jpg);
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    padding-top: 13%;
+    color: #fff;
+    text-transform: uppercase;
+}
+.primary-heading{
+    font-size: 300%;
+    padding-top: 2.5%
+}
+.heading--top{
+    display: block;
+    padding-bottom: 1%;
+}
+.secondary-heading{
+    padding-top: 2.2%;
+    font-size: 80%;
+}
+.mouse-click-icon{
+    padding-top: 11%;
+}
