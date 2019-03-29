@@ -9,6 +9,13 @@ body{
     background-color: #fff;
     color: #777777;
 }
+h3{
+    text-transform: uppercase;
+    padding: 3%;
+    color: #333;
+    letter-spacing: 3px;
+    font-size: 140%;
+}
 .header{
     background-image: url(assets/backgrounds/h_img.jpg);
     height: 100vh;
@@ -20,7 +27,8 @@ body{
 }
 .primary-heading{
     font-size: 300%;
-    padding-top: 2.5%
+    padding-top: 2.5%;
+    font-weight: 400;
 }
 .heading--top{
     display: block;
@@ -32,4 +40,28 @@ body{
 }
 .mouse-click-icon{
     padding-top: 11%;
+}
+.about-us{
+    height: 50vh;
+    background-color: #eee;
+    text-align: center;
+    padding-top: 5%;
+    color: #111;
+}
+.about-title{
+    text-transform: uppercase;
+    padding: 3%;
+    color: #333;
+}
+.about-us p{
+    margin-left: 25%;
+    width: 50%;
+    line-height: 1.4;
+    font-size: 90%;
+}
+.about--details{
+    width: 60%;
+    margin-left: 20%;
+    font-size: 98%;
+    line-height: 1.4;
 }
