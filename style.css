@@ -98,3 +98,31 @@ h3{
     padding: 1%;
     padding-bottom: 2%;
 }
+.contact{
+    background-image: url(assets/backgrounds/c_image.jpg);
+    height: 65vh;
+}
+.form{
+    width: 90%;
+    margin-left: 10%;
+}
+.form input{
+    border: 2px solid #ffff;
+    background: transparent;
+    padding: 1.2%;
+    color: #fff;
+    width: 36%;
+    height: 50px;
+    margin-right: 5%;
+}
+.form textarea{
+    border: 2px solid #ffff;
+    background: transparent;
+    margin-top: 2%;
+}
+::placeholder{
+    color: #fff;
+    font-style: italic;
+    padding: 10px;
+}
+
