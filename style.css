@@ -6,7 +6,7 @@
 body{
     font-family: 'Lato', sans-serif;
     font-size: 16px;
-    background-color: #fff;
+    background-color: #eee;
     color: #777777;
 }
 h3{
@@ -85,6 +85,7 @@ h3{
 .portfolio{
     width: 88%;
     margin-left: 6%;
+    margin-bottom: 5%;
 }
 .portfolio-title{
     padding-top: 4.5%;
@@ -131,4 +132,18 @@ h3{
     font-style: italic;
     padding: 10px;
 }
-
+.footer{
+    height: 30vh;
+    margin-top: 4%;
+    width: 60%;
+    margin-left: 20%;
+}
+.footer img{
+    padding: 1%;
+}
+.copyright{
+    text-align: center;
+    margin-top: 5%;
+    color: #222;
+    margin-right: 14%;
+}
