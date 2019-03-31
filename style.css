@@ -102,6 +102,12 @@ h3{
     background-image: url(assets/backgrounds/c_image.jpg);
     height: 65vh;
 }
+.contact-title{
+    text-align: center;
+    color: #fff;
+    letter-spacing: 2px;
+    margin-right: 9%;
+}
 .form{
     width: 90%;
     margin-left: 10%;
