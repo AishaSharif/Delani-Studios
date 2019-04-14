@@ -42,7 +42,7 @@ h3{
     padding-top: 11%;
 }
 .about-us{
-    height: 55vh;
+    height: 65vh;
     background-color: #eee;
     text-align: center;
     padding: 2%;
@@ -126,7 +126,7 @@ h3{
 }
 .portfolio--top img,
 .portfolio--bottom img{
-    width: 215px;
+    width: 270px;
     padding: 1%;
     padding-bottom: 2%;
 }
