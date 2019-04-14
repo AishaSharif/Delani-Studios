@@ -1,6 +1,3 @@
-# Moringa-Core-Assg-1
-Moringa Core Assignment One
-
 # Delani Studios 
 Amazing People are Making Amazing Designs in a Fun Environment
 
